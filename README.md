@@ -11,7 +11,7 @@ desafios e riscos significativos que merecem atenção.
 ChatGPT e Manus
 
 ## 🧐 Processo de Criação
-Foi desenvolvido um prompt solicitando ao ChatGPT a criação do EBOOK.
+Foi desenvolvido um prompt solicitando ao "ChatGPT" e a "Manus" solicitando a revisão do EBOOK.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
