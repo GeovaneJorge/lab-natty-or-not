@@ -1,10 +1,8 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Os Benefícios e maleficios da Inteligência Artificial.
 
-## 🚀 Introdução
+## 🚀 
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Venho trazer um pequeno eBook sobre os Benefícios e Malefícios da Inteligência Artificial.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -19,33 +17,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+markdown
+#  Benefícios e Malefícios da Inteligência Artificial. ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A Inteligência Artificial (IA) transformou a maneira como as empresas e a sociedade
+operam, oferecendo ferramentas para otimizar processos e aumentar a produtividade.
+No entanto, essa tecnologia, apesar de suas inúmeras vantagens, também apresenta
+desafios e riscos significativos que merecem atenção.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e Manus
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Foi desenvolvido um prompt solicitando ao ChatGPT a criação do EBOOK.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com as novas inteligencias regenerativas ficou melhor produzir conteudo de qualidade em menor tempo.
 ```
 
-### Exemplos e Insigths
+Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
